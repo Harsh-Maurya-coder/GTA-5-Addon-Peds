@@ -121,8 +121,6 @@ Using mods online may result in a permanent ban.
 - **Ped Model** – Original Author  
   (Full credit to the creator)
 
-- **Showcase / Packaging** – Vintox  
-  https://youtube.com/channel/UCBmwQWxU2d1GzuHeJkIJK1A
 
 ---
 ## 📜 License
